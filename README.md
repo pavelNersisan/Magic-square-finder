@@ -2,6 +2,7 @@
 This Python script generates, displays, and visualizes odd-sized magic squares using the Siamese (De la Loubère) method. A magic square is a grid of numbers where the sums of values in each row, column, and diagonal are equal (the magic constant).
 Key Components:
 Generate Magic Square (generate_magic_square(n)):
+![Magic-number0find](https://github.com/user-attachments/assets/47a1ff38-7307-462d-8b19-e928e7735154)
 
 Uses the Siamese method to construct an n x n magic square for odd n.
 
